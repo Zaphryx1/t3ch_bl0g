@@ -12,15 +12,15 @@
         "url": "git+https://github.com/c0y01202/veest-news-crunch.git"
     },
     "keywords": [
-        "Project",
-        "2"
+        "Assignment",
+        "14"
     ],
-    "author": "Claudia Chittim, Michael Gaytan, Veronica Kolesnikov",
+    "author": "Michael Gaytan",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/c0y01202/veest-news-crunch/issues"
+        "url": "https://github.com/Zaphryx1/t3ch_bl0g"
     },
-    "homepage": "https://github.com/c0y01202/veest-news-crunch#readme",
+    "homepage": "https://github.com/Zaphryx1/t3ch_bl0g",
     "dependencies": {
         "bcrypt": "^5.0.1",
         "connect-session-sequelize": "^7.1.3",
@@ -34,4 +34,5 @@
         "prettier": "^2.6.2",
         "sequelize": "^6.19.0"
     }
+
 }
